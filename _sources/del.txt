@@ -1,0 +1,43 @@
+﻿Удаление задач
+==========
+
+
+Для удаления одной задачи достаточно смахнуть её влево или вправо. 
+
+  
+
+.. figure:: _static/deleting_by_swipe.png
+       :scale: 60 %
+       :align: center
+
+       Рисунок 1.
+  
+
+.. figure:: _static/deleting_by_swipe_2.png
+       :scale: 60 %
+       :align: center
+
+       Рисунок 2.
+Для удаления нескольких записей необходимо зажать одну из записей для удаления, после чего выделить остальные записи для удаления и нажать на значок "мусорка", в правом верхнем углу.
+  
+
+.. figure:: _static/deleting_two_tasks.png
+       :scale: 60 %
+       :align: center
+
+       Рисунок 3.
+  
+
+.. figure:: _static/deleting_two_tasks_2.png
+       :scale: 60 %
+       :align: center
+
+       Рисунок 4.
+
+`Назад`_   `Вернуться в главное меню`_  `Далее`_  
+
+.. _Вернуться в главное меню: index.html
+
+.. _Далее: About.html
+
+.. _Назад: upd.html
